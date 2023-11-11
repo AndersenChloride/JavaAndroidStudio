@@ -1,0 +1,9 @@
+Smith books 15
+Johnson pens 8
+Brown markers 12
+Smith paper 20
+Jones envelopes 30
+Davis pencils 10
+Smith paper 35
+Jones envelopes 30
+Davis pencils 25

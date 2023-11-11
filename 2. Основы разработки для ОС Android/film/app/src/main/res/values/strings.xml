@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Подбор фильма</string>
+    <string name="button">Выбрать случайный фильм</string>
+    <string name="text">Здесь будут данные о фильме</string>
+</resources>

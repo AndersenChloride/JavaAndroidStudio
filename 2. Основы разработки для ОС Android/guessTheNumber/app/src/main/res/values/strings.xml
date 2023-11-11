@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="btn">Это оно!</string>
+    <string name="question">Это ваше число?</string>
+    <string name="lower">Нет, моё меньше</string>
+    <string name="higher">Нет, моё больше</string>
+    <string name="newnum">Загадать новое число</string>
+    <string name="range">В каком диапазоне находится ваше число?</string>
+    <string name="right">Правый край</string>
+    <string name="left">Левый край</string>
+    <string name="guess">Угадать</string>
+</resources>
