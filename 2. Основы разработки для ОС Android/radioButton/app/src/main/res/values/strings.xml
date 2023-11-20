@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">radioButtonURI</string>
+    <string name="web">Веб-адрес</string>
+    <string name="geo">Координаты</string>
+    <string name="phone">Телефон</string>
+    <string name="push">Перейти</string>
+    <string name="inputText">Введите текст</string>
+</resources>
