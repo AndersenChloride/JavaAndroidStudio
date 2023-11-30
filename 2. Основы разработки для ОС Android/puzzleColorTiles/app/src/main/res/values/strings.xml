@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">puzzleColorTiles</string>
+    <string name="_0">Количество нажатий: 0</string>
+    <string name="refresh">Перемешать плитки</string>
+    <string name="starttimer">Начать игру с таймером</string>
+    <string name="start">Начать игру</string>
+</resources>
